@@ -5,6 +5,7 @@ Material didático do componente curricular de Informática. <Br> Por Dalmo S Me
 <img src="https://github.com/DalmoMendes/dino-rex-ibr/blob/master/dino-capa.png"/>
 
 # Links
+<a href="https://github.com/DalmoMendes/dino-rex-ibr/blob/master/Material-Did%C3%A1tico-Dino-Rex-Game-IBR-v1.0.pdf">Material Didático Dino Rex </a> <Br>
 <a href="https://scratch.mit.edu/">Scratch </a> <Br>
 <a href="https://scratch.mit.edu/download/scratch2">Scratch Download</a> <Br>
 <a href="https://scratch.mit.edu/scratchr2/static/sa/Scratch2StarterProjects.zip">Projectos de Arranque </a> <Br>
