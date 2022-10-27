@@ -4,6 +4,10 @@ Criando o joguinho Dino Rex com a ferramentas Scratch 2.0 Editor desconectado. <
 Material didático do componente curricular de Informática. <Br> Por Dalmo S Mendes. <Br>
 <img src="https://github.com/DalmoMendes/dino-rex-ibr/blob/master/dino-capa.png"/>
 
+# Jogar Dino Rex
+
+<a href="https://dalmomendes.github.io/games/dinorex/index.html" target="_blak">Clique Aqui para iniciar...</a>
+ 
 # Links
 <a href="https://github.com/DalmoMendes/dino-rex-ibr/blob/master/Material-Did%C3%A1tico-Dino-Rex-Game-IBR-v1.0.pdf">Material Didático Dino Rex </a> <Br>
 <a href="https://scratch.mit.edu/">Scratch </a> <Br>
